@@ -1,0 +1,16 @@
+#i1 {
+    position: absolute;
+
+    left: 0px;
+    top: 0px;
+}
+#i2 {
+    position: absolute;
+    left: 0;
+    top: 10px;
+}
+#i2 {
+    position: absolute;
+    width: 200;
+    height: 200;
+}

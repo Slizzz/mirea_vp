@@ -1,0 +1,40 @@
+h1 {
+    color: blue;
+    font-size: 100%;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 20px;
+}
+
+h2 {
+    color: blue;
+    font-size: 100%;
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+p {
+    color: black;
+    font-family: Arial;
+    font-size: 16px;
+    padding: 5px;
+
+    line-height: 30px;
+    text-indent: 40px;
+    text-align: justify;
+}
+
+.color_red {
+    color: red;
+    font-weight: 600;
+}
+
+.color_blue_italic {
+    color: blue;
+    font-style: italic;
+}

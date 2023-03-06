@@ -1,0 +1,19 @@
+body {
+    background-color: palegreen;
+    font-weight: bold;
+}
+
+input {
+    font-weight: bold;
+    color: darkblue;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+img {
+    background-color: grey;
+    border-radius: 10px;
+}

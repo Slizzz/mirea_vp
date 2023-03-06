@@ -1,0 +1,17 @@
+body {
+    background-color: palegreen;
+    font-weight: bold;
+}
+
+input {
+    font-weight: bold;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.button {
+    padding: 2px 60px;
+}

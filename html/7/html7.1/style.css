@@ -1,0 +1,20 @@
+.images {
+    background: lightcyan;
+    width: 300px;
+    padding: 20px 0;
+    margin: 0 30px 30px 0;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid black;
+    box-shadow: 0 0 5px peachpuff;
+}
+
+.images img {
+    border: 2px solid gray;
+    height: 200px;
+}
+
+.images p {
+    margin: 0;
+}
